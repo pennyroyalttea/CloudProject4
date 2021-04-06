@@ -1,1 +1,7 @@
 # CloudProject4
+
+### Ref: https://github.com/noahgift/awslambda
+
+### This project reproduces the architecture of a serverless data engineering pipeline shown below 
+![68747470733a2f2f757365722d696d616765732e67697468756275736572636f6e74656e742e636f6d2f35383739322f35353335343438332d62616537616638302d353437612d313165392d393930392d6135363231323531303635622e706e67](https://user-images.githubusercontent.com/29048931/113677686-d9956800-968b-11eb-8c05-c89e4168d261.png)
+
